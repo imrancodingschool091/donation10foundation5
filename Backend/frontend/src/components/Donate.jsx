@@ -28,7 +28,7 @@ const Donate = () => {
     try {
       alert("please wait a min..")
       let response = await axios.post(
-        "https://donation10foundation.onrender.com/user/payment",
+        "https://donation10foundation5-1.onrender.com/user/payment",
         userInfo
       );
       
