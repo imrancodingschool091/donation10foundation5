@@ -1,0 +1,83 @@
+[
+   {
+     "id": 1,
+     "title": "Iltizam Saadi",
+     "description": "At Donation 10 Foundation, we are dedicated to helping Muslims strengthen their 'Iltizam Saadi' - their commitment to faith and community.",
+     "imageUrl": "/product1.jpg",
+     "details": {
+       "mission": "To enhance the commitment of Muslims to their faith and community through various initiatives, ensuring they remain steadfast in their religious duties and social responsibilities.",
+       "programs": [
+         {
+           "name": "Faith Strengthening Workshops",
+           "description": "Interactive workshops aimed at deepening the understanding of Islamic teachings and how to apply them in daily life."
+         },
+         {
+           "name": "Community Service Initiatives",
+           "description": "Engaging community service projects that allow participants to put their faith into action and support those in need."
+         }
+       ],
+       "beneficiaries": "Muslim individuals and families seeking to strengthen their religious commitment and community involvement."
+     }
+   },
+   {
+     "id": 2,
+     "title": "Save For Ambiya Ke waris",
+     "description": "At Donation 10 Foundation, we uplift Islamic scholars, Hafiz, and Maulbi by ensuring their financial security and offering crucial support.",
+     "imageUrl": "/product2.jpg",
+     "details": {
+       "mission": "To provide financial and material support to Islamic scholars, Hafiz, and Maulvi, ensuring they can focus on their religious duties without financial burden.",
+       "programs": [
+         {
+           "name": "Scholar Financial Assistance",
+           "description": "Monthly stipends and grants provided to scholars and religious leaders to ensure their financial security."
+         },
+         {
+           "name": "Housing and Healthcare Support",
+           "description": "Providing housing assistance and healthcare services to scholars in need."
+         }
+       ],
+       "beneficiaries": "Islamic scholars, Hafiz, and Maulvi who are dedicated to preserving and teaching Islamic knowledge."
+     }
+   },
+   {
+     "id": 3,
+     "title": "Dini Knowledge",
+     "description": "At Donation 10 Foundation, we empower Muslim students with essential Islamic knowledge, fostering a deep understanding of Islam's true teachings.",
+     "imageUrl": "/product3.jpg",
+     "details": {
+       "mission": "To empower the next generation of Muslims with a deep understanding of Islamic teachings, enabling them to live faith-centered lives.",
+       "programs": [
+         {
+           "name": "Islamic Education Classes",
+           "description": "Comprehensive Islamic studies classes covering Quran, Hadith, Fiqh, and more."
+         },
+         {
+           "name": "Scholarships for Islamic Studies",
+           "description": "Providing financial assistance to students pursuing higher education in Islamic studies."
+         }
+       ],
+       "beneficiaries": "Muslim students of all ages seeking to deepen their understanding of Islam."
+     }
+   },
+   {
+     "id": 4,
+     "title": "Know Who You Are",
+     "description": "At Donation 10 Foundation, we delve into the inspiring history of Islamic fighters, reminding us of Islam's strength and resilience.",
+     "imageUrl": "/product4.jpg",
+     "details": {
+       "mission": "To educate Muslims about the rich and inspiring history of Islamic leaders and fighters, fostering pride and a sense of identity.",
+       "programs": [
+         {
+           "name": "Historical Seminars",
+           "description": "Seminars and lectures that explore the lives and legacies of key Islamic figures throughout history."
+         },
+         {
+           "name": "Cultural Heritage Tours",
+           "description": "Organized trips to historical Islamic sites to provide firsthand experience of Islamic heritage."
+         }
+       ],
+       "beneficiaries": "Muslims seeking to learn more about their heritage and the history of Islam."
+     }
+   }
+ ]
+ 
